@@ -8,6 +8,6 @@ Technologies used:
   Javascript/jQuery/AJAX
   BootStrap
   
-Application to show today's weather and forcast for selected area.
+Application to show today's weather and forecast for selected area.
 
 ![image](https://user-images.githubusercontent.com/66179815/92562405-c7a13300-f22a-11ea-9585-506389c75b52.png)
